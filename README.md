@@ -6,12 +6,17 @@ An interactive Power BI dashboard that breaks down Google Playstore apps data in
 
 ## ✨ What this Dashboard Does
 
-1.The dashboard was built to make sense of the huge world of apps on the Playstore. Instead of scrolling endlessly through raw data, you can:
-2.See which apps are most installed and reviewed.
-3.Explore category-wise performance (Games, Family, Tools, etc.).
-4.Check how ratings vary across genres.
-5.Spot patterns in installs by app size and pricing.
-6.It’s basically a one-stop view for understanding app popularity, quality, and market trends.
+The dashboard was built to make sense of the huge world of apps on the Playstore. Instead of scrolling endlessly through raw data, you can:
+
+1.See which apps are most installed and reviewed.
+
+2.Explore category-wise performance (Games, Family, Tools, etc.).
+
+3.Check how ratings vary across genres.
+
+4.Spot patterns in installs by app size and pricing.
+
+5.It’s basically a one-stop view for understanding app popularity, quality, and market trends.
 
 ## 🛠 Tools Used
 
