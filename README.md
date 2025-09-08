@@ -21,23 +21,33 @@ The dashboard was built to make sense of the huge world of apps on the Playstore
 ## 🛠 Tools Used
 
 -Power BI Desktop for building and designing visuals.
+
 -Power Query for cleaning and shaping the raw dataset.
+
 -DAX for KPIs and dynamic calculations.
+
 -Data Modeling to connect app info with installs, ratings, and categories.
 
 ## 📊 Key Highlights
 
 -Total Apps analyzed: 8174 across 33 categories.
+
 -Most Installed Apps like Subway Surfers, Candy Crush, Roblox.
+
 -Category Breakdown: Games & Family dominate the Playstore.
+
 -Best Reviewed Apps highlighted with total reviews in billions.
+
 -Rating Analysis: Weather, Sports, and Travel apps lead in average ratings.
+
 -App Size vs Installs: Does size matter? The chart shows the trend.
 
 ## 💡 Why it Matters
 
 -For developers → It shows what categories are most competitive and what users value.
+
 -For analysts → It uncovers app trends and user behavior patterns.
+
 -For curious learners → It’s a fun way to see why some apps skyrocket in downloads while others fade away.
 
 📸 Preview
