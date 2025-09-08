@@ -6,34 +6,34 @@ An interactive Power BI dashboard that breaks down Google Playstore apps data in
 
 ## ✨ What this Dashboard Does
 
-The dashboard was built to make sense of the huge world of apps on the Playstore. Instead of scrolling endlessly through raw data, you can:
-See which apps are most installed and reviewed.
-Explore category-wise performance (Games, Family, Tools, etc.).
-Check how ratings vary across genres.
-Spot patterns in installs by app size and pricing.
-It’s basically a one-stop view for understanding app popularity, quality, and market trends.
+1.The dashboard was built to make sense of the huge world of apps on the Playstore. Instead of scrolling endlessly through raw data, you can:
+2.See which apps are most installed and reviewed.
+3.Explore category-wise performance (Games, Family, Tools, etc.).
+4.Check how ratings vary across genres.
+5.Spot patterns in installs by app size and pricing.
+6.It’s basically a one-stop view for understanding app popularity, quality, and market trends.
 
 ## 🛠 Tools Used
 
-Power BI Desktop for building and designing visuals.
-Power Query for cleaning and shaping the raw dataset.
-DAX for KPIs and dynamic calculations.
-Data Modeling to connect app info with installs, ratings, and categories.
+-Power BI Desktop for building and designing visuals.
+-Power Query for cleaning and shaping the raw dataset.
+-DAX for KPIs and dynamic calculations.
+-Data Modeling to connect app info with installs, ratings, and categories.
 
 ## 📊 Key Highlights
 
-Total Apps analyzed: 8174 across 33 categories.
-Most Installed Apps like Subway Surfers, Candy Crush, Roblox.
-Category Breakdown: Games & Family dominate the Playstore.
-Best Reviewed Apps highlighted with total reviews in billions.
-Rating Analysis: Weather, Sports, and Travel apps lead in average ratings.
-App Size vs Installs: Does size matter? The chart shows the trend.
+-Total Apps analyzed: 8174 across 33 categories.
+-Most Installed Apps like Subway Surfers, Candy Crush, Roblox.
+-Category Breakdown: Games & Family dominate the Playstore.
+-Best Reviewed Apps highlighted with total reviews in billions.
+-Rating Analysis: Weather, Sports, and Travel apps lead in average ratings.
+-App Size vs Installs: Does size matter? The chart shows the trend.
 
 ## 💡 Why it Matters
 
-For developers → It shows what categories are most competitive and what users value.
-For analysts → It uncovers app trends and user behavior patterns.
-For curious learners → It’s a fun way to see why some apps skyrocket in downloads while others fade away.
+-For developers → It shows what categories are most competitive and what users value.
+-For analysts → It uncovers app trends and user behavior patterns.
+-For curious learners → It’s a fun way to see why some apps skyrocket in downloads while others fade away.
 
 📸 Preview
 
