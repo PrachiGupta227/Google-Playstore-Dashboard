@@ -1,4 +1,4 @@
-# Google-Playstore-Dashboard(https://github.com/PrachiGupta227/Google-Playstore-Dashboard/commit/7eb6ecf99bba0ea2326300dcc9a6e6d13ede2287)
+# [Google-Playstore-Dashboard](https://github.com/PrachiGupta227/Google-Playstore-Dashboard/blob/main/googleplaystore.pbix))
 
 ## 📱 Google Playstore Analysis Dashboard
 
