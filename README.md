@@ -1,4 +1,4 @@
-# [Google-Playstore-Dashboard](https://github.com/PrachiGupta227/Google-Playstore-Dashboard/blob/main/googleplaystore.pbix))
+# [Google-Playstore-Dashboard](https://github.com/PrachiGupta227/Google-Playstore-Dashboard/blob/main/googleplaystore.pbix)
 
 ## 📱 Google Playstore Analysis Dashboard
 
@@ -51,4 +51,4 @@ The dashboard was built to make sense of the huge world of apps on the Playstore
 -For curious learners → It’s a fun way to see why some apps skyrocket in downloads while others fade away.
 
 📸 Preview
-
+https://github.com/PrachiGupta227/Google-Playstore-Dashboard/blob/main/Google%20Playstore%20Dashboard.png
